@@ -2,6 +2,8 @@
 Arduino mouse controller for Google Halloween Doodle (2016)
 https://www.google.com/doodles/halloween-2016
 
+![gif](http://pix.toile-libre.org/upload/original/1477993770.gif)
+
 ## Hardware
 ### What you need
 * Arduino Leonardo, Due, Zero or any other with 32u4 µcontroller
